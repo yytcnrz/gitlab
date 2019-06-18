@@ -1,9 +1,8 @@
+0000
+aaaaaa
 11
 22
 33
-<<<<<<< Updated upstream
-=======
 444
 eeeeee
->>>>>>> Stashed changes
 ccccccccc
